@@ -18,11 +18,7 @@ Project Methodology:
 
 1. The first step will be to install the PyGame library.
 
-2. The next step will be to create the game assets, such as the bird
-Give a report 
-
-ChatGPT
-Project Report: Flappy Bird Game Clone
+2. The next step will be to create the game assets, such as biProject Report: Flappy Bird Game Clone
 
 Project Overview:
 The Flappy Bird project aimed to replicate the popular Flappy Bird game using Python and the PyGame library. The game involves controlling a bird's flight, navigating through obstacles, and achieving high scores. This report outlines the project's objectives, scope, methodology, implementation details, challenges faced, and future recommendations.
